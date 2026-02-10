@@ -31,7 +31,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between h-16 px-4">
         <a href="#" className="font-heading text-xl font-bold text-foreground">
-          ARA<span className="text-primary">.</span>
+          ABD.<span className="text-primary">.</span>
         </a>
 
         {/* Desktop */}
